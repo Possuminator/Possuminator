@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Possuminator
-- 👀 I’m interested in programming and Cyber Security
+- 👀 I’m interested in programming and Cyber Security.
 - 🌱 I’m currently learning Rust.
 - 💞️ I’m looking to collaborate on nothing currently.
 - 📫 You cannot reach me at this time.
